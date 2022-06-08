@@ -1,7 +1,7 @@
 // ** React 17.0.2
 import React from "react";
 import reactDom from "react-dom";
-import App from "./src/App"
+import App from "./App"
 
 reactDom.render(<App />, document.getElementById("root"));
 
