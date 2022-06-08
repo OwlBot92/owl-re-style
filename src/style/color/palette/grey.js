@@ -1,5 +1,5 @@
 
-const grey = {
+export const grey = {
   _50: '#fafafa',
   _100: '#f5f5f5',
   _200: '#eeeeee',
@@ -14,4 +14,10 @@ const grey = {
   _1100: '#111111',
 }
 
-export default grey;
+export const white = {
+  _0: '#ffffff',
+}
+
+export const black = {
+  _0: '#000000',
+}
