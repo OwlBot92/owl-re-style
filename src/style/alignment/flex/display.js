@@ -1,17 +1,20 @@
 import { StyleSheet } from 'react-native'
-export const _ = StyleSheet.create({
+export const atomic = StyleSheet.create({
+  f1: {
+    flex: 1
+  },
   flex: {
     display: 'flex',
   },
-  flexRow: {
+  fRow: {
     display: 'flex',
     flexDirection: 'row',
   },
-  flexCol: {
+  fCol: {
     display: 'flex',
     flexDirection: 'column',
   },
-  flexWrap: {
+  fWrap: {
     display: 'flex',
     flexWrap: 'wrap',
   },
