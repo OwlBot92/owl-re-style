@@ -22,7 +22,7 @@ npm install owl-re-style
 ### Color Palettes
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 **Blue**
-```
+```javascript
 const blue = {
   _50: ![#61ace2](https://via.placeholder.com/15/61ace2/000000?text=+) `#61ace2`
   _100: ![#3c78df](https://via.placeholder.com/15/3c78df/000000?text=+) `#3c78df`
@@ -38,7 +38,7 @@ const blue = {
 ```
 ----------------------
 **Red**
-```
+```javascript
 const red = {
   _50: ![#eeb2b2](https://via.placeholder.com/15/eeb2b2/000000?text=+) `#eeb2b2`
   _100: ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`
