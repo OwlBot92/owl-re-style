@@ -309,5 +309,334 @@ export const p = StyleSheet.create({
     paddingRight: 15
   },
 
+  all16: {
+    padding: 16
+  },
+  hor16: {
+    paddingHorizontal: 16
+  },
+  ver16: {
+    paddingVertical: 16
+  },
+  t16: {
+    paddingTop: 16
+  },
+  b16: {
+    paddingBottom: 16
+  },
+  l16: {
+    paddingLeft: 16
+  },
+  r16: {
+    paddingRight: 16
+  },
+
+  all17: {
+    padding: 17
+  },
+  hor17: {
+    paddingHorizontal: 17
+  },
+  ver17: {
+    paddingVertical: 17
+  },
+  t17: {
+    paddingTop: 17
+  },
+  b17: {
+    paddingBottom: 17
+  },
+  l17: {
+    paddingLeft: 17
+  },
+  r17: {
+    paddingRight: 17
+  },
+
+  all18: {
+    padding: 18
+  },
+  hor18: {
+    paddingHorizontal: 18
+  },
+  ver18: {
+    paddingVertical: 18
+  },
+  t18: {
+    paddingTop: 18
+  },
+  b18: {
+    paddingBottom: 18
+  },
+  l18: {
+    paddingLeft: 18
+  },
+  r18: {
+    paddingRight: 18
+  },
+
+  all19: {
+    padding: 19
+  },
+  hor19: {
+    paddingHorizontal: 19
+  },
+  ver19: {
+    paddingVertical: 19
+  },
+  t19: {
+    paddingTop: 19
+  },
+  b19: {
+    paddingBottom: 19
+  },
+  l19: {
+    paddingLeft: 19
+  },
+  r19: {
+    paddingRight: 19
+  },
+
+  all20: {
+    padding: 20
+  },
+  hor20: {
+    paddingHorizontal: 20
+  },
+  ver20: {
+    paddingVertical: 20
+  },
+  t20: {
+    paddingTop: 20
+  },
+  b20: {
+    paddingBottom: 20
+  },
+  l20: {
+    paddingLeft: 20
+  },
+  r20: {
+    paddingRight: 20
+  },
+
+  all21: {
+    padding: 21
+  },
+  hor21: {
+    paddingHorizontal: 21
+  },
+  ver21: {
+    paddingVertical: 21
+  },
+  t21: {
+    paddingTop: 21
+  },
+  b21: {
+    paddingBottom: 21
+  },
+  l21: {
+    paddingLeft: 21
+  },
+  r21: {
+    paddingRight: 21
+  },
+
+  all22: {
+    padding: 22
+  },
+  hor22: {
+    paddingHorizontal: 22
+  },
+  ver22: {
+    paddingVertical: 22
+  },
+  t22: {
+    paddingTop: 22
+  },
+  b22: {
+    paddingBottom: 22
+  },
+  l22: {
+    paddingLeft: 22
+  },
+  r22: {
+    paddingRight: 22
+  },
+
+  all23: {
+    padding: 23
+  },
+  hor23: {
+    paddingHorizontal: 23
+  },
+  ver23: {
+    paddingVertical: 23
+  },
+  t23: {
+    paddingTop: 23
+  },
+  b23: {
+    paddingBottom: 23
+  },
+  l23: {
+    paddingLeft: 23
+  },
+  r23: {
+    paddingRight: 23
+  },
+
+  all24: {
+    padding: 24
+  },
+  hor24: {
+    paddingHorizontal: 24
+  },
+  ver24: {
+    paddingVertical: 24
+  },
+  t24: {
+    paddingTop: 24
+  },
+  b24: {
+    paddingBottom: 24
+  },
+  l24: {
+    paddingLeft: 24
+  },
+  r24: {
+    paddingRight: 24
+  },
+
+  all25: {
+    padding: 25
+  },
+  hor25: {
+    paddingHorizontal: 25
+  },
+  ver25: {
+    paddingVertical: 25
+  },
+  t25: {
+    paddingTop: 25
+  },
+  b25: {
+    paddingBottom: 25
+  },
+  l25: {
+    paddingLeft: 25
+  },
+  r25: {
+    paddingRight: 25
+  },
+
+  all26: {
+    padding: 26
+  },
+  hor26: {
+    paddingHorizontal: 26
+  },
+  ver26: {
+    paddingVertical: 26
+  },
+  t26: {
+    paddingTop: 26
+  },
+  b26: {
+    paddingBottom: 26
+  },
+  l26: {
+    paddingLeft: 26
+  },
+  r26: {
+    paddingRight: 26
+  },
+
+  all27: {
+    padding: 27
+  },
+  hor27: {
+    paddingHorizontal: 27
+  },
+  ver27: {
+    paddingVertical: 27
+  },
+  t27: {
+    paddingTop: 27
+  },
+  b27: {
+    paddingBottom: 27
+  },
+  l27: {
+    paddingLeft: 27
+  },
+  r27: {
+    paddingRight: 27
+  },
+
+  all28: {
+    padding: 28
+  },
+  hor28: {
+    paddingHorizontal: 28
+  },
+  ver28: {
+    paddingVertical: 28
+  },
+  t28: {
+    paddingTop: 28
+  },
+  b28: {
+    paddingBottom: 28
+  },
+  l28: {
+    paddingLeft: 28
+  },
+  r28: {
+    paddingRight: 28
+  },
+
+  all29: {
+    padding: 29
+  },
+  hor29: {
+    paddingHorizontal: 29
+  },
+  ver29: {
+    paddingVertical: 29
+  },
+  t29: {
+    paddingTop: 29
+  },
+  b29: {
+    paddingBottom: 29
+  },
+  l29: {
+    paddingLeft: 29
+  },
+  r29: {
+    paddingRight: 29
+  },
+
+  all30: {
+    padding: 30
+  },
+  hor30: {
+    paddingHorizontal: 30
+  },
+  ver30: {
+    paddingVertical: 30
+  },
+  t30: {
+    paddingTop: 30
+  },
+  b30: {
+    paddingBottom: 30
+  },
+  l30: {
+    paddingLeft: 30
+  },
+  r30: {
+    paddingRight: 30
+  },
   // todo continue till 50
 })

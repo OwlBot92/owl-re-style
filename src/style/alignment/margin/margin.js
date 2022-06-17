@@ -309,5 +309,115 @@ export const m = StyleSheet.create({
     marginRight: 15
   },
 
+  all16: {
+    margin: 16
+  },
+  hor16: {
+    marginHorizontal: 16
+  },
+  ver16: {
+    marginVertical: 16
+  },
+  t16: {
+    marginTop: 16
+  },
+  b16: {
+    marginBottom: 16
+  },
+  l16: {
+    marginLeft: 16
+  },
+  r16: {
+    marginRight: 16
+  },
+
+  all17: {
+    margin: 17
+  },
+  hor17: {
+    marginHorizontal: 17
+  },
+  ver17: {
+    marginVertical: 17
+  },
+  t17: {
+    marginTop: 17
+  },
+  b17: {
+    marginBottom: 17
+  },
+  l17: {
+    marginLeft: 17
+  },
+  r17: {
+    marginRight: 17
+  },
+
+  all18: {
+    margin: 18
+  },
+  hor18: {
+    marginHorizontal: 18
+  },
+  ver18: {
+    marginVertical: 18
+  },
+  t18: {
+    marginTop: 18
+  },
+  b18: {
+    marginBottom: 18
+  },
+  l18: {
+    marginLeft: 18
+  },
+  r18: {
+    marginRight: 18
+  },
+
+  all19: {
+    margin: 19
+  },
+  hor19: {
+    marginHorizontal: 19
+  },
+  ver19: {
+    marginVertical: 19
+  },
+  t19: {
+    marginTop: 19
+  },
+  b19: {
+    marginBottom: 19
+  },
+  l19: {
+    marginLeft: 19
+  },
+  r19: {
+    marginRight: 19
+  },
+
+  all20: {
+    margin: 20
+  },
+  hor20: {
+    marginHorizontal: 20
+  },
+  ver20: {
+    marginVertical: 20
+  },
+  t20: {
+    marginTop: 20
+  },
+  b20: {
+    marginBottom: 20
+  },
+  l20: {
+    marginLeft: 20
+  },
+  r20: {
+    marginRight: 20
+  },
+  
   // todo continue till 50
 })
