@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import size from '../size/size';
+import { size } from '../size/size';
 
 export const fSize = StyleSheet.create({
   _6: {
@@ -106,5 +106,20 @@ export const fSize = StyleSheet.create({
   },
   _40: {
     fontSize: size.size40,
+  },
+  _41: {
+    fontSize: size.size41,
+  },
+  _42: {
+    fontSize: size.size42,
+  },
+  _43: {
+    fontSize: size.size43,
+  },
+  _44: {
+    fontSize: size.size44,
+  },
+  _45: {
+    fontSize: size.size45,
   },
 });
