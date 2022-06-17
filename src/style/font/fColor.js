@@ -5,7 +5,7 @@ import green from '../color/palette/green';
 import yellow from '../color/palette/yellow';
 import { grey, white, black } from '../color/palette/grey';
 
-const fColor = StyleSheet.create({
+export const fColor = StyleSheet.create({
   /* RED */
   red50: {
     color: red._50,
@@ -191,5 +191,3 @@ const fColor = StyleSheet.create({
     color: black._50,
   },
 });
-
-export default fColor;
