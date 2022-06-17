@@ -1,4 +1,11 @@
-const size = {
+import { StyleSheet, Dimensions } from "react-native";
+
+export const getScreenWidth = Dimensions.get("window").width;
+export const getScreenHeight = Dimensions.get("window").height;
+
+export const size = {
+
+  // flat integer
   size6: 6,
   size7: 7,
   size8: 8,
@@ -34,6 +41,26 @@ const size = {
   size38: 38,
   size39: 39,
   size40: 40,
-}
 
-export default size;
+  //percentage
+  sizeP5: "5%",
+  sizeP10: "10%",
+  sizeP15: "15%",
+  sizeP20: "20%",
+  sizeP25: "25%",
+  sizeP30: "30%",
+  sizeP35: "35%",
+  sizeP40: "40%",
+  sizeP45: "45%",
+  sizeP50: "50%",
+  sizeP55: "55%",
+  sizeP60: "60%",
+  sizeP65: "65%",
+  sizeP70: "70%",
+  sizeP75: "75%",
+  sizeP80: "80%",
+  sizeP85: "85%",
+  sizeP90: "90%",
+  sizeP95: "95%",
+  sizeP100: "100%",
+}
